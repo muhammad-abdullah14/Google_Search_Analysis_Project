@@ -1,1 +1,2 @@
 # Google_Search_Analysis_Project
+This project analyzed Google search trends using Pytrends. It identified the top countries searching for the keyword and visualized worldwide interest with a choropleth map. The project tracked keyword trends over time and compared related keywords to see relative popularity. The workflow is dynamic, allowing quick updates by changing the keyword, making it useful for trend monitoring, marketing, and research insights.
